@@ -191,16 +191,11 @@ p {
 .contacthead {
     width: 300px;
     padding-bottom: 40px;
+    padding-top: 30px;
     
 }
 
-li {
-    list-style: none;
-    text-align: left;
-}
-
 .contactinfo {
-    padding: 30px
 }
 
 .teamMember {
